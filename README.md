@@ -9,17 +9,21 @@ This project visualizes sales data from a fictional company. The dataset was pro
 
 ### Model
 
+Below is a diagram showing the relationships between data tables. 
+
 ![model](images/data_model.png)
 
 ### Line Plot
 
-In the line plot below, it is evident that sales are lowest in the first quarter. 
+In the line plot below, it is evident that sales are lowest in the first quarter of each year. In contrast, the fourth quarter shows the best performance, which could be due to Christmas season at the end of the year.  
 
 ![line_plot](images/sales_line_plot.png)
 
 ### Bar Plots
 
 ![bar_chart_sales_products](images/bar_chart_sales_products.png)
+
+It is evident from the bar plot below that home appliances and computers have the most sales.
 
 ![bar_products](images/bar_products.png)
 
