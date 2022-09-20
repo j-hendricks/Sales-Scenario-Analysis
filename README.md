@@ -1,9 +1,9 @@
 # Sales-Scenario-Analysis
-Used Power BI to plot the actual and projected sales over time
+Used Power BI to plot the actual and projected sales of a company over time
 
 ## Overview
 
-This project visualizes sales data from a fictional company. The dataset was provided by DataCamp in their "Introduction to Power BI" course. Sales data is split into 3 categories: actual, budget, and forecast. The sales data was filtered based on this dimension, with a focus on the sales from the "actual" category. 
+This project visualizes sales data from a fictional company, Contoso. The dataset was provided by DataCamp in their "Introduction to Power BI" course. Sales data is split into 3 categories: actual, budget, and forecast. The sales data was filtered based on this dimension, with a focus on the sales from the "actual" category. 
 
 ## Results
 
@@ -20,6 +20,8 @@ In the line plot below, it is evident that sales are lowest in the first quarter
 ![line_plot](images/sales_line_plot.png)
 
 ### Bar Plots
+
+The bar chart below shows the distribution of sales across all stores. The plot shows that has accrued the most sales. In addition, the plot shows that Contoso North American Online Store is the only store selling games and toys.
 
 ![bar_chart_sales_products](images/bar_chart_sales_products.png)
 
