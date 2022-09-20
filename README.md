@@ -13,6 +13,8 @@ This project visualizes sales data from a fictional company. The dataset was pro
 
 ### Line Plot
 
+In the line plot below, it is evident that sales are lowest in the first quarter. 
+
 ![line_plot](images/sales_line_plot.png)
 
 ### Bar Plots
@@ -21,6 +23,6 @@ This project visualizes sales data from a fictional company. The dataset was pro
 
 ![bar_products](images/bar_products.png)
 
-Using the slicer to the right, we can filter by the year.
+Using the slicer to the right, we can filter by the year. The distribution of 2019 sales is very similar to that for all years. 
 
 ![bar_products_2019](images/bar_products_2019.png)
