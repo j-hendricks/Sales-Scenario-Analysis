@@ -15,13 +15,13 @@ Below is a diagram showing the relationships between data tables.
 
 ### Line Plot
 
-In the line plot below, it is evident that sales are lowest in the first quarter of each year. In contrast, the fourth quarter shows the best performance, which could be due to Christmas season at the end of the year.  
+In the line plot below, it is evident from the area under the plot that sales are decreasing each year from 2017-2019. This is an important issue that should be further analyzed by the company. Moreover, sales are lowest in the first quarter of each year. In contrast, the fourth quarter shows the best performance, which could be due to Christmas season.
 
 ![line_plot](images/sales_line_plot.png)
 
 ### Bar Plots
 
-The bar chart below shows the distribution of sales across all stores. The plot shows that has accrued the most sales. In addition, the plot shows that Contoso North American Online Store is the only store selling games and toys.
+The bar chart below shows the distribution of sales across all stores. The plot shows that Contoso Catalog Store has accrued the most sales. In addition, the plot shows that Contoso North American Online Store is the only store selling games and toys.
 
 ![bar_chart_sales_products](images/bar_chart_sales_products.png)
 
